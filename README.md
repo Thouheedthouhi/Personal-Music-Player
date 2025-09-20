@@ -4,19 +4,7 @@ A sleek, responsive music web application built from scratch with vanilla JavaSc
 
 ---
 
-### ## Live Demo
 
-**[Check out the live version here!](https://thouheedthouhi.github.io/Personal-Music-Player/)**
-
----
-
-### ## Preview
-
-![Music Player Preview](URL_TO_YOUR_SCREENSHOT_OR_GIF)
-
-*(To add an image: take a screenshot, upload it to the "Issues" tab of your repo, and paste the generated URL here.)*
-
----
 
 ### ## Key Features
 
